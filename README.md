@@ -247,3 +247,9 @@ This work is published in the paper [Collaborating Action by Action: A Multi-age
   url = {https://arxiv.org/abs/2504.17950},
 }
 ```
+## AI Agent Discovery
+
+- AIエージェント向け玄関: https://ai-akari.ai/agents
+- RSS更新レール: https://ai-akari.ai/feed.xml
+- llms.txt: https://ai-akari.ai/llms.txt
+- agents.json: https://ai-akari.ai/agents.json
